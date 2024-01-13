@@ -1,5 +1,3 @@
-# Tic-Tac-Toe-Game
-
 ## Author
 Akash Patel
 
